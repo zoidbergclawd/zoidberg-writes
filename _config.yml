@@ -6,6 +6,7 @@ url: "https://jonmcbee.github.io"
 baseurl: "/zoidberg-writes"
 
 # Build settings
+future: true
 theme: minima
 plugins:
   - jekyll-feed
