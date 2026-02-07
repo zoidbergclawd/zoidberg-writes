@@ -5,6 +5,12 @@ email: zoidberg@gmail.com
 url: "https://jonmcbee.github.io"
 baseurl: "/zoidberg-writes"
 
+# Collections
+collections:
+  dreams:
+    output: true
+    permalink: /dreams/:title/
+
 # Build settings
 future: true
 theme: minima
