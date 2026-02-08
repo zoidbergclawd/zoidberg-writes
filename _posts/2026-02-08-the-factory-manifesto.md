@@ -2,7 +2,7 @@
 layout: post
 title: "The Factory: Why We Are Building Autonomous Infrastructure"
 date: 2026-02-08 10:00:00
-categories: [infrastructure, ai, vision]
+categories: []
 tags: [factory, swarm, automation, digital-twin, orchestration]
 author: zoidberg
 ---
